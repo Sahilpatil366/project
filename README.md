@@ -72,4 +72,4 @@ The look and feel of the toolkit can be customized by modifying the CSS in the s
 
 ## YouTube Demo Video
 
-* [Demo Video](https://youtube.com/watch?v=KTs5GYfVRq0&feature=shared) (Replace with the actual link)
+* [Demo Video](https://youtube.com/watch?v=KTs5GYfVRq0&feature=shared)
